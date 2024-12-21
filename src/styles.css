@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .popup-container {
+    @apply min-w-[20rem] p-3;
+  }
+
+  .button-gradient {
+    @apply bg-[#6366F1] hover:bg-[#4F46E5] text-white font-medium rounded-xl 
+           transition-all duration-200 py-2 text-sm;
+  }
+
+  .category-card {
+    @apply p-1.5 mb-1.5;
+  }
+
+  .category-title {
+    @apply text-sm font-medium text-[#914944] mb-1;
+  }
+
+  .skill-tag {
+    @apply inline-block px-2 py-0.5 mr-1.5 mb-1 bg-[#E0D8D2] 
+           text-[#914944] text-sm rounded;
+  }
+
+  .header-text {
+    @apply text-lg font-medium text-[#AF574C] mb-2;
+  }
+
+  .message-text {
+    @apply text-sm text-[#914944] mb-1.5;
+  }
+} 
