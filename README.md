@@ -1,7 +1,7 @@
 # Resume Tailorer
 
 <p align="center">
-  <img src="public/icons/icon128.png" alt="Resume Tailorer Logo" width="128" height="128">
+  <img src="public/icons/Icon.png" alt="Resume Tailorer Logo" width="128" height="128">
 </p>
 
 A Chrome extension that automatically extracts technical requirements from job descriptions and helps you tailor your resume accordingly.
@@ -79,10 +79,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name](https://github.com/Paligi)
+[Paligi](https://github.com/Paligi)
 
 ---
 
 <p align="center">
-Made with ❤️ for job seekers
 </p>
